@@ -1,0 +1,3 @@
+Overview====	This project is an interactive web-based data cleaning and visualization tool built using Streamlit, Python, Pandas, and Matplotlib.
+Objective====	To eliminate the repetitive effort of writing data-cleaning code again and again for every new file, enabling users to clean, explore, and visualize datasets through a simple, reusable interface.
+What it does====	The application allows users to upload CSV or Excel files, perform common data cleaning operations, explore dataset summaries, visualize numeric data, and download cleaned datasets — all without writing code, making data preparation faster and more efficient.
